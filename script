@@ -117,7 +117,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/BIAT/qual
 					{word : 'Laughing'},
 					{word : 'Lovely'},
 					{word : 'Pleasing'},
-					{word : 'Pleasure'},
+					{word : 'Joyful'},
 				], 
 				//Stimulus css
 				stimulusCss : {color:'#0000FF','font-size':'2em'}
